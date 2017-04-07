@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="TextView"
+        android:id="@+id/foodLabel"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu"
+        android:paddingLeft="8dp"
+        android:paddingTop="22dp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="125dp"
+        android:layout_height="60dp"
+        android:typeface="serif"
+        android:textSize="12sp"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif-medium" />
+
+    <TextView
+        android:text="0"
+        android:id="@+id/numOfRatings"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textAllCaps="false"
+        android:textColor="@android:color/darker_gray"
+        android:paddingTop="10dp"
+        android:paddingBottom="15dp"
+        android:layout_width="20dp" />
+
+    <RatingBar
+        android:id="@+id/ratingForFood"
+        style="@style/Widget.AppCompat.RatingBar.Indicator"
+        android:numStars="5"
+        android:stepSize="0.1"
+        android:paddingTop="11dp"
+        tools:numStars="5"
+        android:elevation="24dp"
+        android:layout_weight="0.62"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp" />
+
+</LinearLayout>

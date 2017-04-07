@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "826917288731",
+    "firebase_url": "https://exeter-dining-app.firebaseio.com",
+    "project_id": "exeter-dining-app",
+    "storage_bucket": "exeter-dining-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826917288731:android:249ebbed0113c02d",
+        "android_client_info": {
+          "package_name": "com.example.gordon.exeterdiningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826917288731-iqekbd1nlm0phvmshgmp74jvlna88rkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wVg8PjzHlYenWQbZOAb8PoVUzuzz4nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826917288731:android:8f55e99e2eb29854",
+        "android_client_info": {
+          "package_name": "com.ftdiscovery.gordonchi.exeterdiningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826917288731-iqekbd1nlm0phvmshgmp74jvlna88rkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wVg8PjzHlYenWQbZOAb8PoVUzuzz4nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826917288731:android:751ea0979919a8d4",
+        "android_client_info": {
+          "package_name": "com.example.gordon.tabfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826917288731-iqekbd1nlm0phvmshgmp74jvlna88rkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wVg8PjzHlYenWQbZOAb8PoVUzuzz4nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826917288731:android:300b7377838ccf53",
+        "android_client_info": {
+          "package_name": "com.saltstudios.ftdiscovery.exeterdiningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826917288731-iqekbd1nlm0phvmshgmp74jvlna88rkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wVg8PjzHlYenWQbZOAb8PoVUzuzz4nY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

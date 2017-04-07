@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.saltstudios.ftdiscovery.exeterdiningapp.MainActivity" >
+    <item
+        android:title="Change Dining Hall"
+        android:orderInCategory="101"
+        android:id="@+id/dhallChange" />
+    <item
+        android:title="Refresh"
+        android:orderInCategory="102"
+        android:id="@+id/refresh" />
+    <item
+        android:title="Meet the Staff"
+        android:orderInCategory="103"
+        android:id="@+id/dank_info" />
+</menu>
